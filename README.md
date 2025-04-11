@@ -25,3 +25,8 @@ flowchart TD
     O --> F
     F -- 是:::yes --> P["结束"]
 ```
+
+
+## Example
+![image1](/image1.png)
+![image2](/image2.png)
